@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TransparentPanelScene.unity
+    guid: 533205f5b2341f34a8a9a126912336e4
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8fc7ddec90f6ade4fbfd08384ca6348c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 19777aab638a6e8459ffaaf4372e4ce9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ee9b50992faeb624790772f7e37368af, type: 2}
